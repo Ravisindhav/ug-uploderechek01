@@ -1,1 +1,13 @@
-
+aiohttp
+aiofiles
+requests
+ffmpeg-python
+m3u8
+cloudscraper
+yt-dlp
+tgcrypto
+beautifulsoup4
+pytube
+pycryptodome
+pytz
+pyrogram
