@@ -11,3 +11,4 @@ pytube
 pycryptodome
 pytz
 pyrogram
+pymongo
